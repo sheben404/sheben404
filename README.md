@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @sheben404
+- 👀 I'm a newbie in front-end
+- 💞️ I'm looking forward to making friends with people who are also interested in front-end or CS
+- 😄 I hope that I can contribute more to the open source community in the future
+- 📫 You can reach me at sheben404@outlook.com
+
+[![sheben's Github Stats](https://github-readme-stats.vercel.app/api?username=sheben404)]()
+
 <!--
 **sheben404/sheben404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
