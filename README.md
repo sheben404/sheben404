@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @sheben404
-- 👀 I'm a newbie in front-end
-- 💞️ I'm looking forward to making friends with people who are also interested in front-end or CS
-- 😄 I hope that I can contribute more to the open source community in the future
+- 👋 Hi, I’m @sheben404.
+- 👀 I’m new to front-end development.
+- 💞️ I’m excited to connect with others who share my passion for front-end or computer science.
+- 😄 In the future, I hope to make more contributions to the open source community.
 - 📫 You can reach me at sheben404@outlook.com
 
 [![sheben's Github Stats](https://github-readme-stats.vercel.app/api?username=sheben404)]()
